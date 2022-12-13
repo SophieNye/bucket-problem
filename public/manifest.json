@@ -1,0 +1,6 @@
+{
+  "short_name": "Water Bucket",
+  "name": "Water Bucket Puzzle",
+  "start_url": ".",
+  "display": "standalone"
+}
