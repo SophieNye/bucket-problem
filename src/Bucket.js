@@ -12,8 +12,6 @@ const Water = styled.div`
     display: flex;
     width: ${(props) => `${props.bucketWidth}px`};
     height: ${(props) => `${props.waterHeight}px`};
-    justify-content: center;
-    align-tiems: flex-end;
     background-color: #0B65C2;
 `;
 
